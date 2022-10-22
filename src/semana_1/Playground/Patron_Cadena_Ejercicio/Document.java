@@ -1,4 +1,4 @@
-package semana_1.Playground.Patron_Cadena;
+package semana_1.Playground.Patron_Cadena_Ejercicio;
 
 public class Document {
     private String contenido;

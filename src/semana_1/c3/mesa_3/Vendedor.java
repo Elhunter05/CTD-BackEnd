@@ -58,6 +58,7 @@ public abstract class Vendedor {
     public String mostrarCategoria() {
         calcularPuntos();
         recategorizar();
+        System.out.println(getNombre() + " tiene un total de " + getPuntos() + " puntos, categoriza como " + getCategoria() + ".");
         return getNombre() + " tiene un total de " + getPuntos() + " puntos, categoriza como " + getCategoria() + ".";
     }
 }

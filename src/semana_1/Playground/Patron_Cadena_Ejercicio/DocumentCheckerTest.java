@@ -1,8 +1,7 @@
-package semana_1.Playground.Patron_Cadena;
+package semana_1.Playground.Patron_Cadena_Ejercicio;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 class DocumentCheckerTest {
     @Test

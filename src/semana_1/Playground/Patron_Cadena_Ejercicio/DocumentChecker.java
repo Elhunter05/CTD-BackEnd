@@ -1,6 +1,4 @@
-package semana_1.Playground.Patron_Cadena;
-
-import javax.print.Doc;
+package semana_1.Playground.Patron_Cadena_Ejercicio;
 
 public class DocumentChecker {
     private Handler chain;
